@@ -1,0 +1,14 @@
+[
+  {"name": "conversation_id", "type": "STRING", "mode": "REQUIRED"},
+  {"name": "gt_scenario", "type": "STRING"},
+  {"name": "gt_topic", "type": "STRING"},
+  {"name": "gt_theme", "type": "STRING"},
+  {"name": "gt_secondary_topic", "type": "STRING"},
+  {"name": "gt_is_followup", "type": "BOOLEAN"},
+  {"name": "resolved", "type": "BOOLEAN"},
+  {"name": "self_service", "type": "BOOLEAN"},
+  {"name": "churn_intent", "type": "BOOLEAN"},
+  {"name": "competitor", "type": "STRING"},
+  {"name": "hardware_model", "type": "STRING"},
+  {"name": "network_operator", "type": "STRING"}
+]

@@ -1,0 +1,10 @@
+[
+  {"name": "conversation_id", "type": "STRING", "mode": "REQUIRED", "description": "Genesys conversation ID (stable technical identifier)"},
+  {"name": "channel", "type": "STRING", "description": "voice | chat"},
+  {"name": "language", "type": "STRING", "description": "sv | en"},
+  {"name": "started_at", "type": "TIMESTAMP"},
+  {"name": "transcript_text", "type": "STRING", "description": "PII-redacted transcript, one turn per line: [mm:ss] Speaker: text"},
+  {"name": "turn_count", "type": "INTEGER"},
+  {"name": "source_system", "type": "STRING"},
+  {"name": "ingested_at", "type": "TIMESTAMP"}
+]

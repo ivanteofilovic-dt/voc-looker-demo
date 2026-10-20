@@ -1,0 +1,5 @@
+[
+  {"name": "topic_name", "type": "STRING"},
+  {"name": "theme", "type": "STRING"},
+  {"name": "description", "type": "STRING"}
+]

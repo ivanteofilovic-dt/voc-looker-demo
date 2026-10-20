@@ -1,0 +1,15 @@
+{"topic_name": "price plan migration confusion", "theme": "Billing & pricing", "description": "Customers confused or upset by the email announcing migration of legacy plans to a more expensive plan."}
+{"topic_name": "wi-fi drops after router firmware update", "theme": "Technical support – Fixed", "description": "Wi-Fi repeatedly disconnecting on Nova X3 routers after the automatic firmware 4.2.1 update."}
+{"topic_name": "number porting failed or delayed", "theme": "Onboarding & porting", "description": "New customers whose number porting from another operator failed or is delayed."}
+{"topic_name": "invoice higher than expected", "theme": "Billing & pricing", "description": "Customers asking why their invoice is higher than usual."}
+{"topic_name": "final invoice after cancellation", "theme": "Billing & pricing", "description": "Former customers asking about the content of their final invoice."}
+{"topic_name": "broadband installation delayed", "theme": "Orders & delivery", "description": "New broadband customers waiting for an installation date."}
+{"topic_name": "broadband not working after installation", "theme": "Orders & delivery", "description": "Broadband not working right after installation because the port is not activated."}
+{"topic_name": "mobile data not working abroad", "theme": "Technical support – Mobile", "description": "Mobile data issues while travelling abroad."}
+{"topic_name": "esim activation problems", "theme": "Technical support – Mobile", "description": "Customers unable to activate an eSIM on a new phone."}
+{"topic_name": "cannot log in to app with bankid", "theme": "Digital self-service", "description": "Customers unable to log in to the app using BankID."}
+{"topic_name": "cancellation due to competitor offer", "theme": "Retention & churn", "description": "Customers requesting cancellation, typically citing a competitor offer."}
+{"topic_name": "puk code request", "theme": "Technical support – Mobile", "description": "Customers requesting their PUK code; mostly handled by the voicebot."}
+{"topic_name": "phone upgrade eligibility", "theme": "Sales & upgrades", "description": "Customers asking whether they can upgrade their phone (sales opportunity)."}
+{"topic_name": "tv channels missing from package", "theme": "TV", "description": "TV customers missing channels after a line-up change."}
+{"topic_name": "payment extension request", "theme": "Billing & pricing", "description": "Customers asking to extend the invoice due date."}

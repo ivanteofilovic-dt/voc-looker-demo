@@ -1,0 +1,7 @@
+[
+  {"name": "topic_name", "type": "STRING"},
+  {"name": "problem_statement", "type": "STRING"},
+  {"name": "recommended_action", "type": "STRING"},
+  {"name": "suggested_owner", "type": "STRING"},
+  {"name": "expected_impact", "type": "STRING"}
+]
